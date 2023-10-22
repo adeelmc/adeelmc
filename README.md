@@ -1,19 +1,25 @@
-[![Adeel's GitHub Banner](./assets/githubheader.png)](https://adeeldev.com)
+<h1 align="center">Hello, I'm M Adeel Chaudhary 👋</h1>
 
-<br>
-I’m Adeel, a full-stack cloud engineer, creative coder and self-proclaimed designer who specializes in front-end development. I make it my mission to translate user-focused designs into pixel-perfect websites or applications that run blazing fast.
+<p align="center">
+  <a href="https://linkedin.com/in/madeelchaudhary" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn Profile">
+  </a>
+  <a href="https://twitter.com/madeelchaudhry" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter" alt="Twitter Profile">
+  </a>
+<!--   <a href="https://madeelchaudhary.com" target="_blank">
+    <img src="https://img.shields.io/badge/Website-Visit-4A90E2?style=for-the-badge&logo=wordpress" alt="Personal Website">
+  </a> -->
+</p>
 
-Want to know more about me? [Check out my LinkedIn.](https://www.linkedin.com/in/madeelchaudhary/)
+I'm a passionate full-stack developer with a keen interest in cutting-edge technologies. I'm proficient in JavaScript, React, React Native, and much more. I'm constantly exploring new tools and technologies to stay at the forefront of the ever-evolving tech landscape.
 
-<br>
 <br>
 
 ## &#x1f4c8; GitHub Stats
 
-<br>
-
 <a href="https://github.com/madeelchaudhary">
-  <img align="center" style="margin:0.7rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madeelchaudhary&hide=html&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+  <img align="center" style="margin:0.7rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madeelchaudhary&show_icons=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34&hide=html,scss" />
 </a>
 
 <a href="https://github.com/madeelchaudhary">
@@ -21,54 +27,43 @@ Want to know more about me? [Check out my LinkedIn.](https://www.linkedin.com/in
 </a>
 
 <br>
-<br>
 
-## 💼 Skills
-
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-React%20Native-informational?style=flat&logo=React&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-GraphQL-informational?style=flat&logo=GraphQL&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Next.js-informational?style=flat&logo=nextdotjs&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Node-informational?style=flat&logo=nodedotjs&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Express-informational?style=flat&logo=express&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Postgres-informational?style=flat&logo=postgresql&logoColor=white&color=4AB197)
+## 🔧 My Skill Set
+![JavaScript](https://img.shields.io/badge/JavaScript-Expert-yellow)
+![React](https://img.shields.io/badge/React-Proficient-blue)
+![React Native](https://img.shields.io/badge/React%20Native-Proficient-blue)
+![Next.js](https://img.shields.io/badge/Next.js-Proficient-blue)
+![TypeScript](https://img.shields.io/badge/TypeScript-Proficient-blue)
+![Node.js](https://img.shields.io/badge/Node.js-Proficient-blue)
+![Express](https://img.shields.io/badge/Express-Proficient-blue)
+![GraphQL](https://img.shields.io/badge/GraphQL-Proficient-blue)
+![Blockchain](https://img.shields.io/badge/Blockchain-Enthusiast-green)
+![Nest.js](https://img.shields.io/badge/Nest.js-Proficient-blue)
+![Python](https://img.shields.io/badge/Python-Proficient-blue)
+![AWS](https://img.shields.io/badge/AWS-Proficient-blue)
+![Docker](https://img.shields.io/badge/Docker-Proficient-blue)
 
 <details>
-<summary>More Skills</summary>
-<br>
-
-![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Style-Tailwind-informational?style=flat&logo=Tailwind-CSS&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Style-Sass-informational?style=flat&logo=Sass&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Styled%20Components-informational?style=flat&logo=styledcomponents&logoColor=white&color=4AB197)
-
-
-<br>
-
-![](https://img.shields.io/badge/Test-Jest-informational?style=flat&logo=jest&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Test-Cypress-informational?style=flat&logo=Cypress&logoColor=white&color=4AB197)
-
-<br>
-
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-AWS-informational?style=flat&logo=amazonaws&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Hasura-informational?style=flat&logo=hasura&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Appwrite-informational?style=flat&logo=appwrite&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Strapi-informational?style=flat&logo=strapi&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-NGINX-informational?style=flat&logo=nginx&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Netlify-informational?style=flat&logo=netlify&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Jenkins-informational?style=flat&logo=jenkins&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Actions-informational?style=flat&logo=github-actions&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=npm&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=Postman&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-AdobeXD-informational?style=flat&logo=Adobe-XD&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Jira-informational?style=flat&logo=Jira-Software&logoColor=white&color=4AB197)
-
+  <summary>More skills</summary>
+  
+  ![Redux](https://img.shields.io/badge/Redux-Proficient-blue)
+  ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-Proficient-blue)
+  ![Prisma](https://img.shields.io/badge/Prisma-Proficient-blue)
+  ![Jest](https://img.shields.io/badge/Jest-Proficient-blue)
+  ![MySQL](https://img.shields.io/badge/MySQL-Proficient-blue)
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Proficient-blue)
+  ![Mongoose](https://img.shields.io/badge/Mongoose-Proficient-blue)
+  ![Appwrite](https://img.shields.io/badge/Appwrite-Proficient-blue)
+  ![Hasura](https://img.shields.io/badge/Hasura-Proficient-blue)
+  ![Strapi](https://img.shields.io/badge/Strapi-Proficient-blue)
+  ![Sanity](https://img.shields.io/badge/Sanity-Proficient-blue)
 </details>
+
+
+## 📚 Certifications
+I've earned more than 15 certifications. You can check them out on my [LinkedIn profile](https://linkedin.com/in/madeelchaudhary).
+
+## 📫 Let's Connect
+I'm always open to collaborations, discussions, and networking. Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/madeelchaudhary) or [Twitter](https://twitter.com/madeelchaudhary).
+
+Let's innovate and explore the tech world together! 🌟
