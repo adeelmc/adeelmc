@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm M Adeel Chaudhary 👋</h1>
+<h1 >Hello, I'm M Adeel Chaudhary 👋</h1>
 
 <p align="center">
   <a href="https://linkedin.com/in/madeelchaudhary" target="_blank">
@@ -10,6 +10,7 @@
 <!--   <a href="https://madeelchaudhary.com" target="_blank">
     <img src="https://img.shields.io/badge/Website-Visit-4A90E2?style=for-the-badge&logo=wordpress" alt="Personal Website">
   </a> -->
+<!--   align="center" -->
 </p>
 
 I'm a passionate full-stack developer with a keen interest in cutting-edge technologies. I'm proficient in JavaScript, React, React Native, and much more. I'm constantly exploring new tools and technologies to stay at the forefront of the ever-evolving tech landscape.
