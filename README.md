@@ -58,8 +58,8 @@ I'm a **Full-Stack Developer** with 3+ years of professional experience and over
 ## 📈 GitHub Stats
 
 <div align="center">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madeelchaudhary&show_icons=true&hide_border=true&theme=radical&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34&hide=html,scss" alt="Top Languages"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=madeelchaudhary&show_icons=true&hide_border=true&theme=radical&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" alt="GitHub Stats"/>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adeelmc&show_icons=true&hide_border=true&theme=radical&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34&hide=html,scss" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=adeelmc&show_icons=true&hide_border=true&theme=radical&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" alt="GitHub Stats"/>
 </div>
 
 ---
